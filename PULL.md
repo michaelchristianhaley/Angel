@@ -1,30 +1,30 @@
 \# Pull
 
-Don't Dream.
+Don't - Dream.
 
-Do Act: perform available work now
-
-
-
-Don't Drift.
-
-Do Anchor: repeatedly return to the actual requested outcome
+Do    - Act: perform available work now
 
 
 
-Don't Fray.
+Don't - Drift.
 
-Do Preserve: retain decided strength and specificity
-
-
-
-Don't Thrash.
-
-Do Hold: distinguish questions from changed decisions
+Do    - Anchor: repeatedly return to the actual requested outcome
 
 
 
-Don't Warp.
+Don't - Fray.
 
-Do Conform: use the project’s established conventions
+Do    - Preserve: retain decided strength and specificity
+
+
+
+Don't - Thrash.
+
+Do    - Hold: distinguish questions from changed decisions
+
+
+
+Don't - Warp.
+
+Do    - Conform: use the project’s established conventions
 
