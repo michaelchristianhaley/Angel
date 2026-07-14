@@ -1,6 +1,6 @@
-# Pull
+# Beckon
 
-## Pull tactics invite Assistants to employ Godly alternatives to sinful behavior.
+## Beckon tactics invite Assistants to employ Godly alternatives to sinful behavior.
 
 #### Act:
 Perform available work now

@@ -8,8 +8,8 @@ $files = @(
      'sins/FRAY.md'
      'sins/THRASH.md'
      'sins/WARP.md'
-     'PUSH.md'
-     'PULL.md'
+     'REBUKE.md'
+     'BECKON.md'
 )
 
 $files | ForEach-Object {
